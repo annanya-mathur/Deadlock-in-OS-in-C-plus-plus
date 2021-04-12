@@ -1,4 +1,4 @@
-# ![4998px-Deadlock_-_Logo_(2) svg (1) (2)](https://user-images.githubusercontent.com/68476475/114364464-0f0fe900-9b97-11eb-8512-af8549e9db63.png)
+# ![4998px-Deadlock_-_Logo_(2) svg (1) (2)](https://user-images.githubusercontent.com/68476475/114364464-0f0fe900-9b97-11eb-8512-af8549e9db63.png) in Operating System
 
 
 
